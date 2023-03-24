@@ -84,7 +84,7 @@ else{
   render() {
      const columns = [
       {
-        field: 'assignmentName',
+        field: 'name',
         headerName: 'Assignment',
         width: 400,
         //custom render displays assignment with a radio button
